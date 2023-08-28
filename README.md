@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @tunji-v-odunlade
 - 👀 I’m interested in data science projects
 - 💞️ I’m looking to collaborate on intriguing projects
+- 💞️ Skilled in Python, R, SQL, and Tableau
 - 📫 I can be reached on vodunlade@gmail.com
 
 <!---
